@@ -1,5 +1,8 @@
-# RPA_Ex-01
-# EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+```
+Name : PRAKASH C
+Reg.No : 212223240122
+```
+# RPA_Ex-02
 
 # Aim:
   Get input of name from user and if name is "RAM", Display message as "Welcome Mr. Ramachandran" otherwise "Welcome " followed by Given name. When using Switch case, use different message for every input it gets.
@@ -23,8 +26,15 @@ Add Switch Activity Expression: userName.ToUpper (ensures case insensitivity)
 Default Case → Message Box: "Welcome " + userName
 
 ## STEP 5:
-Include Necessary parameters in each functions.
+Finally,Run it by using F5 key.
+
+# Output:
+
+![Screenshot 2025-05-07 205522](https://github.com/user-attachments/assets/f5c80f9c-25e9-450e-a48c-a1bff94e1c59)
+
+![Screenshot 2025-05-07 205439](https://github.com/user-attachments/assets/adf0f7c4-3c0d-40f8-8b14-39c9828dd3bb)
+
 
 
 # Result:
-Thus, the Data Visualization using seaborn python library for the given data is implemented successfully.
+    The UiPath workflow executed successfully. It took the user's name as input and used a Switch case to display a personalized welcome message, showing "Welcome Mr. Ramachandran" for "RAM" and a default message for other names.

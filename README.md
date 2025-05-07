@@ -30,10 +30,10 @@ Finally,Run it by using F5 key.
 
 # Output:
 
-![Screenshot 2025-05-07 205522](https://github.com/user-attachments/assets/f5c80f9c-25e9-450e-a48c-a1bff94e1c59)
 
 ![Screenshot 2025-05-07 205439](https://github.com/user-attachments/assets/adf0f7c4-3c0d-40f8-8b14-39c9828dd3bb)
 
+![Screenshot 2025-05-07 205522](https://github.com/user-attachments/assets/f5c80f9c-25e9-450e-a48c-a1bff94e1c59)
 
 
 # Result:
